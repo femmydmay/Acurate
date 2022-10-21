@@ -11,7 +11,7 @@
 }*/
 
 body {
-  background-image: url("blackyellow 3d.jpg");
+  background-image: url("../image/blackyellow\ 3d.jpg");
 }
 
 .container {
@@ -21,7 +21,7 @@ body {
   font-size: 25px;
   text-align: center;
   /*background-color:#070707;*/
-  background-image: url("black 3d 1.jpg");
+  background-image: url("../image/black\ 3d\ 1.jpg");
   display: flex;
   gap: 2rem;
   flex-direction: row;

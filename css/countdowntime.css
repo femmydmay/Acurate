@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*.errorInp{
+    border: 2px solid red;
+}
+
+.error, .passerror{
+    color: red;
+
+}*/
+
+
+body { background-image: url("../../../../../../xampp/htdocs/blackyellow 3d.jpg");
+}
+
+.container{font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	/*background-color:#070707;*/
+	background-image:url("../../../../../../xampp/htdocs/black 3d 1.jpg");
+	 display: flex;
+	gap: 2rem;
+	flex-direction: row;
+	
+	width: 800px;
+	height: 500px;
+	padding: 10px;
+	margin: 59px;
+	border-style: solid;
+	border-color: white;
+	border-radius: 50px;
+	border-width: 20px;
+	
+   
+}
+
+p {text-align: center;
+}
+
+h1 {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 30px;
+	color: white;
+	background-color: black;
+	display:inline;
+	padding: 20px 10px 10px 10px;
+	border: 2px solid gold;
+
+}
+
+.launch{font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+font-size: 50px;
+color: white;
+	
+	padding: 10px;
+	margin: 0px 40px;
+	position: relative; bottom:0px; left:10px;
+	
+}
+
+.prats{
+	
+	/*display: inline-block;*/
+	display: flex;
+	margin-bottom: 40px;
+	
+gap: 7rem;
+
+	text-align: center;
+	
+	/*height: 40px;*/
+	padding: 1px;
+	margin: 0px -10px;
+	position: relative; bottom:1px; left:70px;	
+	
+}
+
+.dhms{display: flex;
+gap: 2rem;
+
+	position: relative; bottom: 50px; right:-20px;	
+	
+	
+}
+
+
+.start {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color:#F1090D;
+	padding: 10px 20px;
+
+}
+
+.stop {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color:#F1090D;
+	padding: 10px 20px;
+
+}
+
+
+.reset {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	color:#F1090D;
+	padding: 10px 20px;
+
+}
